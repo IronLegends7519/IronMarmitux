@@ -24,8 +24,11 @@ h2{
 
 li{
     font-family: "Poppins", sans-serif;
+    margin-top: 15px;
 }
 
-li, span{
-    text-decoration:black;
+#crepe_img{
+    width: 100%;
+    object-fit: cover;
+    height: 200px;
 }
