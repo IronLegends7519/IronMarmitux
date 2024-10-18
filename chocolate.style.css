@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+boby {
+	height: 100vh;
+}
+.contenaire {
+	display: flex;
+	flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+.chocolat{
+    
+}
