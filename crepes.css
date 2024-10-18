@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+    padding: 6em;
+    padding-left: 15em;
+    padding-right: 15em;
+}
+
+main {
+    background-color: white;
+    padding: 3em;
+    border-radius: 10px;
+}
+
+h2{
+    color: #B85E56;
+    font-family: "Poppins", sans-serif;
+}
+
+li{
+    font-family: "Poppins", sans-serif;
+    margin-top: 15px;
+}
+
+#crepe_img{
+    width: 100%;
+    object-fit: cover;
+    height: 200px;
+}
